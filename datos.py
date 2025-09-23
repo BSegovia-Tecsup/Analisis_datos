@@ -1,10 +1,3 @@
-"""
-datos.py
-Uso:
-  pip install requests beautifulsoup4 pandas lxml
-  python datos.py
-"""
-
 import requests, json, time, os
 import pandas as pd
 from bs4 import BeautifulSoup
