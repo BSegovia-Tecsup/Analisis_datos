@@ -7,7 +7,7 @@ from datetime import datetime
 API_KEY = "AIzaSyDfBoA6NXGOys_xQCjGBCQ9V4f1nQdMDrA"  
 CX = "8105881b2d6da4192"  
 QUERY = "mujeres en tecnología programadoras"
-NUM_PAGES = 3
+NUM_PAGES = 10
 # ------------------------------------------------
 
 def google_search(query, start):
